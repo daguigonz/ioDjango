@@ -1,0 +1,4 @@
+ioDjango
+========
+
+Configuración básica  implementación 
